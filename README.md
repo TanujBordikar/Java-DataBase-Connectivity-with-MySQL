@@ -5,7 +5,5 @@
 
 <h4>And then connect Java Application with MySQL database</h4>
 <h5>Steps!</h5>
-<li>
-  <ol>To connect java application with the mysql database, [mysqlconnector.jar](https://static.javatpoint.com/src/jdbc/MysqlCon.zip) file is
-      required to be loaded.</ol>
-A computer capable of accessing the [trinket.io](https://trinket.io/) website
+1. To connect java application with the mysql database, [mysqlconnector.jar](https://static.javatpoint.com/src/jdbc/MysqlCon.zip) file is
+      required to be loaded.
