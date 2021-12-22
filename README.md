@@ -9,17 +9,7 @@
       i. To connect java application with the mysql database, [mysqlconnector.jar](https://static.javatpoint.com/src/jdbc/mysql-connector.jar) file is
       required to be loaded.
       ii. Add this jar file to the libraries in your project that you created in your IDE.
-      iii. Set Classpath
-            There are two ways to set the classpath:
-            o temporary
-            o permanent
-            <h5>How to set the temporary classpath</h5> 
-            open command prompt and write:
-            1. C:>set classpath=c:\folder\mysql-connector-java-5.0.8-bin.jar;.;
-            <h5>How to set the permanent classpath</h5>
-            Go to environment variable then click on new tab. In variable name
-            write classpath and in variable value paste the path to the mysqlconnector.jar
-            file by appending mysqlconnector.jar;.; as C:\folder\mysql-connector-java-
-            5.0.8-bin.jar;.;
+      iii. Set temporary Classpath by adding the mysql-connector-java-5.0.8-bin.jar in the libraries of your project and this file will be available in your Program files(x86) of        your MySQL folder. 
+            
       
             
