@@ -5,10 +5,12 @@
       <li>And then create a new Project in Apache Netbeans IDE. for eg: JDBC</li>
       <li>And then connect Java Application with MySQL database</li>
       <h4>Steps!</h4>
-      i. To connect java application with the mysql database, [mysqlconnector.jar](https://static.javatpoint.com/src/jdbc/mysql-connector.jar) file is
-      required to be loaded.
-      ii. Add this jar file to the libraries in your project that you created in your IDE.
-      iii. Set temporary Classpath by adding the mysql-connector-java-5.0.8-bin.jar in the libraries of your project and this file will be available in your Program files(x86) of        your MySQL folder. 
+      <ul>
+      <li>To connect java application with the mysql database, [mysqlconnector.jar](https://static.javatpoint.com/src/jdbc/mysql-connector.jar) file is
+      required to be loaded.</li>
+      <li>Add this jar file to the libraries in your project that you created in your IDE.</li>
+      <li>Set temporary Classpath by adding the mysql-connector-java-5.0.8-bin.jar in the libraries of your project and this file will be available in your Program files(x86) of        your MySQL folder.</li>
+      </ul>
 </ol>
             
       
