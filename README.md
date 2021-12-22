@@ -11,6 +11,7 @@
       <li>Add this jar file to the libraries in your project that you created in your IDE.</li>
       <li>Set temporary Classpath by adding the mysql-connector-java-5.0.8-bin.jar in the libraries of your project and this file will be available in your Program files(x86) of        your MySQL folder.</li>
       </ul>
+      <li>And then make a .java file for connecting with MySQL database. You can refer the above program. And then execute the file.</li>
 </ol>
             
       
