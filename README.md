@@ -4,7 +4,7 @@
       <li>Let's first create a table in the MySQL database.</li>
       <li>And then create a new Project in Apache Netbeans IDE. for eg: JDBC</li>
       <li>And then connect Java Application with MySQL database</li>
-      <h4>Steps!</h4>
+      # Steps!
       <ul>
       <li>To connect java application with the mysql database, [mysqlconnector.jar](https://static.javatpoint.com/src/jdbc/mysql-connector.jar) file is
       required to be loaded.</li>
